@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurang557
+- 👋 Hi, I’m gaurang agarwal
 - 👀 I’m interested in  Machine Learning and full stack web development
 - 🌱 I’m currently solving problems on hackerrank 
 - 💞️ I’m looking to collaborate on Machine Learning
