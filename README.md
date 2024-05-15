@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gaurang agarwal
-- 👀 I’m interested in  Machine Learning and full stack web development
+- 👀 I have worked in  Machine Learning and full stack development
 - 📫 How to reach me -> gmail- gaurangagarwal557@gmail.com
 
 <!---
